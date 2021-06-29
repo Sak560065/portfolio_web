@@ -1,0 +1,18 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.Namecolour{
+    color: orange;
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.halfwidth img{
+    width: 100%;
+}
